@@ -553,6 +553,10 @@
   parent: BaseItem
   description: A plunger with a red plastic suction-cup and a wooden handle. Used to unclog drains.
   components:
+    - type: EmbeddableProjectile
+      offset: 0.15,0.15
+    - type: ThrowingAngle
+      angle: 0
     - type: Tag
       tags:
         - Plunger

@@ -6,6 +6,14 @@
     Plastic: 100
 
 - type: latheRecipe
+  id: Plunger
+  result: Plunger
+  completetime: 2
+  materials:
+    Plastic: 300
+    Wood: 500
+
+- type: latheRecipe
   id: MopBucket
   result: MopBucket
   completetime: 2
